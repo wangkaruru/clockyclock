@@ -1,0 +1,22 @@
+.clock {
+    width: 95vw;
+    height: 95vw;
+    overflow: hidden;
+}
+
+.clock h1 {
+    border: 2px solid burlywood;
+    width: 250px;
+    margin: 40vh 0px auto;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: cornsilk;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: sandybrown;
+    
+
+}
